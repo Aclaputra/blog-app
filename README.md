@@ -1,5 +1,5 @@
 # 🥽—blog-app
-Built Blog app with Django framework backend made within a hour
+Built Blog app with Django framework backend
 
 ## Home preview
 ![](readme/home.png)
